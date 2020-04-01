@@ -1,0 +1,135 @@
+neighborhood,neighborhood_description,niche_grade,population,median_home_value,median_rent,median_household_income,public_school_grade,crime_grade,housing_grade,nightlife_grade,good_for_families_grade,diversity_grade,jobs_grade,weather_grade,cost_of_living_grade,health_grade,outdoor_activities_grade,commute_grade
+Dallas,City in Texas,A-,"1,318,806","$169,400",$987,"$50,100",B-,C,B-,A,B+,A+,B,B+,B,B-,B+,B+
+Fort Worth,City in Texas,A-,"855,786","$154,300","$1,015","$59,255",C+,C,B-,B+,B+,A+,B+,B+,B+,C+,B-,B
+Arlington,City in Texas,A-,"392,462","$157,600",$997,"$58,502",B,C,B,B+,A-,A+,B+,B+,B+,B-,B,B-
+Plano,City in Texas,A+,"284,579","$291,300","$1,330","$92,121",A+,B-,A-,A,A+,A+,A+,B+,B,A,B-,B
+Irving,City in Texas,A,"238,637","$165,000","$1,086","$61,937",B+,C+,B,A,A,A+,A-,B+,B+,B-,B,B+
+Garland,"Suburb of Dallas, TX",A-,"237,982","$146,200","$1,078","$58,999",B+,C,B,B+,A-,A+,B,B+,B+,C+,B,B
+Grand Prairie,"Suburb of Dallas, TX",A-,"191,104","$151,300","$1,058","$65,249",B,C+,B,B,B+,A+,B+,B+,B+,C,B,B-
+McKinney,"Suburb of Dallas, TX",A+,"173,460","$281,300","$1,272","$89,964",A+,B-,B+,B,A+,A,A,B+,B,B,B-,B-
+Frisco,"Suburb of Dallas, TX",A+,"165,700","$368,000","$1,441","$127,133",A+,B-,A,B,A+,A,A+,B+,B,B+,B-,B-
+Mesquite,"Suburb of Dallas, TX",B+,"144,250","$129,100","$1,065","$56,074",B,C,B-,B,B,A+,B,B+,B+,C,B,C+
+Denton,City in Texas,A,"133,661","$196,900","$1,046","$56,489",A-,C+,B,A,A-,A,A-,B+,B,B-,C+,B+
+Carrollton,"Suburb of Dallas, TX",A+,"133,438","$217,700","$1,175","$75,820",A,C+,B+,A,A,A+,A-,B+,B,B+,C+,B+
+Richardson,City in Texas,A+,"114,402","$250,100","$1,336","$80,953",A,C+,A-,A,A+,A+,A,B+,B,A,B,B+
+Lewisville,"Suburb of Dallas, TX",A,"104,789","$190,300","$1,165","$63,056",A,C+,B+,A-,A,A+,A-,B+,B,B,B-,B
+Allen,"Suburb of Dallas, TX",A+,"99,255","$286,300","$1,456","$106,736",A+,B-,A-,B-,A+,A,A+,B+,B,A-,B-,B-
+Flower Mound,"Suburb of Dallas, TX",A+,"73,252","$342,200","$1,660","$134,184",A+,B,A,B,A+,B+,A+,B+,B,A-,B-,B-
+North Richland Hills,"Suburb of Fort Worth, TX",A,"69,800","$186,500","$1,118","$68,146",A,C+,B+,B,A,A,B+,B+,B+,A-,B-,B-
+Mansfield,"Suburb of Fort Worth, TX",A,"67,492","$235,300","$1,384","$96,253",A,B-,B+,B-,A,A,A-,B+,B,B,B,C+
+Rowlett,"Suburb of Dallas, TX",A,"62,127","$205,100","$1,623","$96,286",B+,C+,A-,B-,A-,A,A-,B+,B,B,B,B-
+Euless,"Suburb of Dallas, TX",A,"55,047","$176,200","$1,114","$63,327",A,C+,B+,A-,A,A+,A-,B+,B+,B+,C+,B
+DeSoto,"Suburb of Dallas, TX",B,"53,030","$163,500","$1,114","$68,954",C-,C+,C+,C+,B-,A,B+,B+,B+,B,B-,B-
+Grapevine,"Suburb of Dallas, TX",A+,"52,486","$294,600","$1,278","$85,722",A+,B-,B+,A-,A,A,A-,B+,B,A-,C+,B-
+Bedford,"Suburb of Fort Worth, TX",A,"49,306","$198,300","$1,066","$66,636",A,C+,B+,B,A,A,A-,B+,B+,B+,C+,B
+Wylie,"Suburb of Dallas, TX",A,"49,248","$201,000","$1,436","$93,637",A-,B,A,B-,A,A,A,B+,B,B+,B,C+
+Cedar Hill,"Suburb of Dallas, TX",B+,"48,704","$154,600","$1,297","$70,327",C+,C+,B-,B-,B+,A,B+,B+,B,B,B,B-
+Keller,"Suburb of Fort Worth, TX",A+,"46,175","$355,300","$1,332","$133,266",A+,B,A-,B,A+,B,A,B+,B,B,B-,C+
+Burleson,"Suburb of Fort Worth, TX",A-,"44,629","$167,100","$1,229","$77,342",B+,C+,A-,B-,A-,B+,A-,B+,B+,B,C+,C+
+Haltom City,"Suburb of Fort Worth, TX",B+,"44,275","$101,100",$976,"$50,448",B-,B-,B,B+,B,A+,B+,B+,A-,B+,C+,B
+Rockwall,"Suburb of Dallas, TX",A,"43,157","$245,300","$1,311","$92,269",A,B-,A-,B,A,A-,A,B+,B,B+,B,C+
+Little Elm,"Suburb of Dallas, TX",A,"42,889","$233,700","$1,599","$95,377",A-,B-,A-,B+,A,A,A,B+,B,A-,C+,C
+The Colony,"Suburb of Dallas, TX",A,"42,215","$200,300","$1,391","$83,094",A,B-,A-,A,A,A,A,B+,B,A,B-,B-
+Coppell,"Suburb of Dallas, TX",A+,"41,512","$368,800","$1,349","$123,802",A+,B-,A,A-,A+,A,A+,B+,B,B+,C+,B
+Duncanville,"Suburb of Dallas, TX",B,"39,630","$135,400","$1,095","$55,224",C,C,C+,B-,B,A+,B,B+,B+,B+,B,B-
+Lancaster,"Suburb of Dallas, TX",B,"39,162","$121,600","$1,027","$53,311",C,C,B-,C+,B-,A,B,B+,B+,B-,B,B-
+Hurst,"Suburb of Fort Worth, TX",A,"38,986","$166,700","$1,037","$61,509",A,C+,B+,B,A,A,B+,B+,B+,A-,C+,B
+Farmers Branch,"Suburb of Dallas, TX",A,"35,552","$175,300","$1,329","$71,032",B-,C+,B,A,A-,A+,A-,B+,B,A-,B,B+
+Waxahachie,"Suburb of Dallas, TX",A,"34,285","$155,700","$1,063","$62,986",A-,C+,B+,B,A-,A,A-,B+,B+,B-,B,B
+Southlake,"Suburb of Fort Worth, TX",A+,"30,840","$656,100","$1,445","$230,700",A+,B-,A,B,A+,B-,A+,B+,B,A-,C+,B-
+Cleburne,Town in Texas,B+,"29,878","$103,900",$898,"$50,253",B-,C+,B,B,B,A,B+,B+,A-,B,B,B-
+Colleyville,"Suburb of Fort Worth, TX",A+,"26,037","$488,900","$1,865","$175,369",A+,B+,A,B,A+,C+,A,B+,B+,A,C+,B-
+Balch Springs,"Suburb of Dallas, TX",B-,"25,312","$94,800",$991,"$48,295",C+,C,B-,B-,C+,A,B,B+,A-,B,C,C
+Sachse,"Suburb of Dallas, TX",A,"25,133","$210,100","$1,342","$101,253",B+,B,B+,B,A,A,A-,B+,B+,B-,B,C+
+University Park,"Suburb of Dallas, TX",A+,"24,954","$1,230,200","$1,990","$214,477",A+,B,B-,A+,A+,C+,A,B+,C+,A+,B,A-
+Watauga,"Suburb of Fort Worth, TX",A-,"24,526","$125,000","$1,379","$70,800",A-,B-,B+,B,A-,A,B+,B+,B+,B+,C+,B-
+Midlothian,"Suburb of Dallas, TX",A-,"23,908","$192,600","$1,149","$83,378",A-,B-,A-,C+,A-,A-,A,B+,B+,B-,B-,C
+Benbrook,"Suburb of Fort Worth, TX",A-,"22,961","$168,700",$978,"$71,281",C+,B-,B+,B+,B+,B+,A-,B+,A-,A-,B-,B
+Saginaw,"Suburb of Fort Worth, TX",B+,"22,873","$148,400","$1,283","$79,625",B+,C+,B,C+,B+,A-,B+,B+,B+,B,C+,C+
+Corinth,"Suburb of Dallas, TX",A,"21,158","$238,800","$1,292","$96,670",A-,B-,A-,B-,A,A-,A,B+,B,A-,C+,B-
+Murphy,"Suburb of Dallas, TX",A+,"20,528","$337,900","$2,117","$132,589",A+,B+,A-,C+,A+,A,A,B+,B-,A-,B,B-
+Forney,Town in Texas,A,"19,366","$183,800","$1,082","$92,851",A-,B,A-,B-,A,A,A,B+,B+,B-,B,C+
+Prosper,"Suburb of Dallas, TX",A,"19,103","$436,600","$1,482","$140,815",A+,B-,A-,C+,A+,B+,A+,B+,B-,A-,C+,C
+White Settlement,"Suburb of Fort Worth, TX",B,"17,396","$88,200",$925,"$48,237",B,C+,B,B,B,A,B,B+,A-,B-,C+,B
+Terrell,Town in Texas,B-,"17,378","$103,500",$947,"$44,563",C+,C,C+,B,B-,A+,B-,B+,A-,B,C+,C+
+Seagoville,"Suburb of Dallas, TX",B-,"16,357","$96,600",$975,"$48,341",C,C+,B,B-,B-,A+,B+,B+,A-,B-,C,C-
+Highland Village,"Suburb of Dallas, TX",A+,"16,342","$351,000","$1,868","$143,854",A,B,A,C+,A+,B,A+,B+,B,A-,C+,B-
+Addison,"Suburb of Dallas, TX",A,"15,626","$325,100","$1,294","$73,383",C+,C+,C+,A+,B+,A,A-,B+,B-,A,B-,A-
+Crowley,"Suburb of Fort Worth, TX",B,"15,189","$145,900","$1,205","$72,788",C,C+,B,C+,B-,A,B+,B+,B+,B,C,C
+Rendon,"Suburb of Fort Worth, TX",A-,"13,616","$238,900",$887,"$82,969",A-,NG,A,C+,A-,A-,A-,B+,A-,B+,C,C
+Forest Hill,"Suburb of Fort Worth, TX",B-,"12,913","$85,200","$1,153","$45,114",C+,C,B-,C+,B-,A,B-,B+,A-,B-,C+,B-
+Glenn Heights,"Suburb of Dallas, TX",B,"12,581","$155,500","$1,199","$65,051",C,B-,B-,C+,B,A+,B,B+,B+,B-,B-,B-
+Red Oak,"Suburb of Dallas, TX",A-,"12,366","$186,100",$996,"$68,570",B,B-,B,B,B+,A+,A-,B+,B+,B-,B,C+
+Azle,"Suburb of Fort Worth, TX",B+,"12,149","$139,400",$921,"$65,295",B+,C+,A-,C+,B+,B,A-,B+,A-,B,C+,C
+Trophy Club,"Suburb of Fort Worth, TX",A+,"11,790","$376,800","$1,596","$142,483",A,B+,A,B,A+,B-,A+,B+,B-,A-,C+,C+
+Royse City,"Suburb of Dallas, TX",B+,"11,746","$171,900","$1,464","$78,200",B,B-,B+,B-,B,A-,A,B,B,B,C+,C
+Fate,"Suburb of Dallas, TX",A,"11,705","$236,800","$1,922","$108,237",A,B+,A,B-,A,B+,A+,B,B,B+,B-,C+
+Princeton,"Suburb of Dallas, TX",B+,"9,765","$178,900","$1,274","$63,635",B+,C+,B,B-,B+,A,A-,B+,B,A-,C,C+
+Lantana,"Suburb of Dallas, TX",A+,"9,536","$372,000","$2,625","$142,112",A,NG,A-,C,A+,B,A+,B+,B,A-,C+,C-
+Highland Park,"Suburb of Dallas, TX",A+,"9,145","$1,440,400","$2,686","$207,019",A+,B,C+,A+,A+,C,A-,B+,C+,A+,B,A-
+Fairview,"Suburb of Dallas, TX",A+,"8,665","$374,300","$1,308","$92,159",A+,A,A-,B-,A+,B+,A+,B+,B-,A-,B-,B-
+Melissa,"Suburb of Dallas, TX",A-,"8,492","$279,000","$2,059","$113,532",A,B-,B+,C,A-,B+,A+,B+,B,A-,B-,C
+Heath,"Suburb of Dallas, TX",A,"8,410","$450,200","$2,052","$155,488",A,B,A-,C-,A,B-,A,B+,B,B+,B-,C
+Richland Hills,"Suburb of Fort Worth, TX",A,"8,052","$124,300",$948,"$61,431",A,B-,A-,B,A-,A,A-,B+,A-,B+,C+,B+
+Kennedale,"Suburb of Fort Worth, TX",B+,"7,998","$192,200",$958,"$75,000",B-,C+,B,B-,B+,A,A-,B+,B+,B,C+,C
+Roanoke,"Suburb of Fort Worth, TX",A,"7,899","$311,700","$1,230","$88,958",A,B-,A-,B+,A,A,A,B+,B,A-,C+,C+
+Lake Dallas,"Suburb of Dallas, TX",A-,"7,832","$146,600","$1,150","$67,908",A-,B-,B,B-,A-,A,A-,B+,B+,B+,C+,C
+River Oaks,"Suburb of Fort Worth, TX",B-,"7,683","$93,400","$1,046","$51,840",C,C+,B-,B,C+,A,B+,B+,A-,B,C+,B
+Lucas,"Suburb of Dallas, TX",A,"7,217","$576,700","$1,855","$173,750",A+,NG,A-,C+,A+,B-,A,B+,B,B+,B,B-
+Kaufman,Town in Texas,B,"7,107","$87,800",$811,"$42,610",B,B-,B,B-,B,A,A-,B+,A-,B-,C+,C+
+Joshua,"Suburb of Fort Worth, TX",B+,"7,106","$163,000",$681,"$58,586",B+,B,B+,C,B+,B+,B+,B+,A-,B,C+,C
+Providence Village,"Suburb of Dallas, TX",A,"7,053","$201,500","$1,716","$91,645",A-,NG,A-,C+,A,A-,A,NG,B,B+,C,C+
+Keene,Town in Texas,A-,"6,339","$117,900",$852,"$47,993",B-,B,B,B-,B+,A+,B,B+,A-,B-,B,B-
+Sunnyvale,"Suburb of Dallas, TX",A+,"6,284","$366,300","$2,220","$137,969",A+,NG,A-,C+,A+,A,A-,B+,B+,B,B,B-
+Everman,"Suburb of Fort Worth, TX",B-,"6,252","$74,700",$939,"$40,156",C+,C,C+,C,C+,A,B-,B+,A-,B-,C-,C
+Hutchins,"Suburb of Dallas, TX",B-,"5,726","$78,200",$896,"$38,242",C,C+,B-,B,C+,A+,B-,B+,A-,B-,B-,C+
+Pecan Acres,Town in Texas,B+,"5,670","$342,200","$1,049","$107,813",A-,NG,B,C,A-,B,A-,B+,B,B-,C+,C-
+Sansom Park,"Suburb of Fort Worth, TX",B-,"5,250","$76,800",$878,"$53,670",C,B-,B,B,C+,A,B,B+,A,B-,C-,B-
+Krum,Town in Texas,A-,"4,973","$168,200","$1,233","$80,833",B,NG,B+,C,A-,B+,A+,B+,B+,B+,C-,C
+Lake Worth,"Suburb of Fort Worth, TX",B-,"4,919","$106,000","$1,069","$59,136",C-,B-,B,B-,B-,A-,B+,B+,A-,B,C,B
+Briar,"Suburb of Fort Worth, TX",B,"4,685","$148,700",$865,"$61,729",B,NG,A-,C,B,B,A-,B+,A-,B-,C+,C
+Parker,"Suburb of Dallas, TX",A+,"4,534","$512,900",$969,"$137,714",A+,A-,B+,C+,A+,A-,A,B+,B,A-,B,B
+Hickory Creek,"Suburb of Dallas, TX",A-,"4,442","$255,600","$1,554","$107,731",A-,B-,A-,B-,A-,B+,A,B+,B,B+,C+,C
+Cockrell Hill,"Suburb of Dallas, TX",C+,"4,268","$84,700",$735,"$44,861",C,C+,C+,B-,C+,B-,B,B+,A,B-,B,B
+Wilmer,"Suburb of Dallas, TX",B,"4,185","$63,900",$865,"$41,125",C,B-,B+,B,B-,A,A-,B+,A,B-,B,C
+Alvarado,Town in Texas,B-,"4,044","$104,800",$824,"$46,268",C,B-,B-,C+,C+,B+,B+,B+,A-,B-,C,C+
+Argyle,Town in Texas,A,"3,988","$436,700","$1,198","$146,667",A+,B-,A,C,A,C,A+,B+,B,A-,C+,C-
+Oak Point,"Suburb of Dallas, TX",A-,"3,878","$250,600","$1,661","$86,162",B+,NG,A-,C+,A-,B+,A,B+,B-,B+,C+,C-
+Ovilla,"Suburb of Dallas, TX",A-,"3,800","$236,100","$1,405","$99,103",B,A-,B+,C+,A-,B+,A,B+,B,B-,B-,C-
+Justin,Town in Texas,B+,"3,660","$210,700","$1,283","$91,222",A-,NG,A,C+,B+,B-,A,B+,B+,B+,C-,C+
+Venus,Town in Texas,B,"3,488","$130,000",$928,"$60,714",B-,B-,B+,B-,B-,A,A-,B+,A-,B-,C+,C-
+Farmersville,Town in Texas,B-,"3,469","$132,600","$1,061","$44,637",B+,B-,C+,C+,B-,B+,A-,B,B+,B+,C+,C-
+Blue Mound,"Suburb of Fort Worth, TX",B,"3,398","$92,700","$1,138","$60,321",B+,B-,B+,B-,B+,A,B+,B+,A-,B-,C+,C+
+Double Oak,"Suburb of Dallas, TX",A+,"3,065","$452,500","$2,001","$151,958",A,A,A-,B-,A+,B-,A,B+,B+,A-,C+,C+
+Lavon,"Suburb of Dallas, TX",B+,"3,061","$222,000","$1,713","$86,583",C+,A,B,C+,B+,A-,A,B+,B,B+,C,C
+Edgecliff Village,"Suburb of Fort Worth, TX",B+,"3,002","$149,500","$1,166","$72,500",C+,NG,B,C,B,A,A-,B+,A-,B-,C+,B-
+Shady Shores,"Suburb of Dallas, TX",A-,"2,828","$299,800","$1,320","$106,719",A-,NG,A-,C+,A,B+,A,B+,B,A-,C+,C+
+Reno,"Suburb of Fort Worth, TX",C+,"2,811","$119,500",$859,"$53,483",B-,NG,B,C+,C+,B,B,B+,A-,B-,C,C-
+Westworth Village,"Suburb of Fort Worth, TX",B+,"2,653","$109,100","$1,163","$56,875",C+,B-,B-,A-,B,A,B+,B+,A-,B,C+,B-
+Ferris,"Suburb of Dallas, TX",B,"2,612","$78,100","$1,028","$58,477",C+,B-,B-,B,B,A,A,B+,A,B-,B,C+
+McLendon-Chisholm,"Suburb of Dallas, TX",A-,"2,589","$420,700","$1,232","$131,964",A,NG,A-,C,A,B-,A+,B+,B,B,C+,C
+Pantego,"Suburb of Fort Worth, TX",A-,"2,532","$211,600","$1,186","$61,492",B+,C+,B,B+,B+,B+,B+,B+,B,A,C+,B-
+Northlake,Town in Texas,A-,"2,524","$371,000","$1,164","$81,289",A,C,B,B,A-,B+,A,B+,B-,A-,C-,C+
+Dalworthington Gardens,"Suburb of Fort Worth, TX",A,"2,456","$410,700","$1,266","$114,375",B+,B-,B,B,A-,A-,A-,B+,B,A-,B-,C
+Talty,Town in Texas,A-,"2,302","$314,900","$2,684","$126,078",A-,NG,B+,C,A-,B+,A-,B+,B+,B-,B-,C
+Bartonville,"Suburb of Dallas, TX",A,"1,839","$616,900","$1,388","$148,750",A+,A,B+,C,A+,B-,A,B+,B-,A-,C,C
+Hackberry,"Suburb of Dallas, TX",A,"1,805","$225,300","$1,599","$96,111",B,NG,A,B+,A,A,A,B+,B,A,C+,C-
+Rhome,Town in Texas,B+,"1,737","$123,800",$985,"$68,571",A-,NG,B+,B-,B+,B,A-,B+,A-,B-,C-,B-
+Haslet,"Suburb of Fort Worth, TX",A,"1,661","$366,500","$1,679","$130,192",A,NG,A-,B-,A,B,A-,B+,B+,B+,C+,C
+Pelican Bay,"Suburb of Fort Worth, TX",C+,"1,620","$44,000",$877,"$31,000",B+,C+,C,C+,C+,B,C,B+,A-,B,C+,C
+Krugerville,Town in Texas,B+,"1,600","$221,200","$1,424","$100,469",A-,NG,A-,C+,B+,B-,A+,B+,B+,B+,C,C-
+Lakeside,"Suburb of Fort Worth, TX",B,"1,524","$192,800","$1,135","$79,167",B+,A-,A-,C,B,B-,A,B+,B+,B,C-,C
+Lowry Crossing,"Suburb of Dallas, TX",A-,"1,502","$210,600","$1,192","$94,471",A,NG,A-,B-,B+,B,A+,B+,B+,A-,C,C-
+Aurora,Town in Texas,B,"1,498","$246,700","$1,153","$71,071",A-,NG,B,C,B,A-,A-,B+,B,B-,C-,C
+Oak Leaf,"Suburb of Dallas, TX",A-,"1,486","$217,400","$1,196","$112,333",B+,NG,B+,C,A-,A,A,B+,A-,C+,B-,C-
+Newark,Town in Texas,B,"1,326","$79,700",$846,"$45,139",A-,NG,B,C+,B,A,A-,B+,A-,C+,C-,C-
+Copper Canyon,"Suburb of Dallas, TX",A,"1,235","$484,300","$1,196","$146,250",A,NG,A-,C+,A,C+,A,B+,B,A-,C+,C
+Cross Roads,"Suburb of Dallas, TX",A-,"1,202","$453,900","$1,000","$138,438",A-,NG,B+,C+,A,B-,A,B+,B,B+,C+,C-
+St. Paul,"Suburb of Dallas, TX",A,"1,017","$283,900","$1,938","$110,125",A+,NG,A-,C,A,A-,A,B+,B,B+,B,C
+Westlake,"Suburb of Fort Worth, TX",A,974,"$1,688,800","$1,164","$250,001",A+,NG,B-,B,A+,C+,A,B+,B-,A-,C+,C+
+Pecan Hill,"Suburb of Dallas, TX",B,744,"$145,800","$1,268","$75,000",B+,NG,B+,C+,B,B+,A,B+,A-,B-,B-,C
+Briaroaks,"Suburb of Fort Worth, TX",A-,563,"$222,800",0,"$68,438",A-,NG,A-,C,B+,A-,A-,B+,A-,B,C,B
+Westover Hills,"Suburb of Fort Worth, TX",A-,533,"$1,561,400","$1,431","$228,750",C+,B-,C,A,B+,C-,A-,B+,B-,A,C+,B
+Lakewood Village,"Suburb of Dallas, TX",B+,479,"$271,200","$2,167","$107,250",B+,NG,B+,C+,B,C+,A,B+,B+,B,C+,C-
+Cross Timber,"Suburb of Fort Worth, TX",B+,356,"$248,400",$850,"$92,500",A-,NG,A-,C+,B+,B,A,B+,A-,B,C+,C
+Hebron,"Suburb of Dallas, TX",A,239,"$455,600","$1,132","$90,625",A,NG,B,B+,A,B+,A,B+,B-,A,C+,B
